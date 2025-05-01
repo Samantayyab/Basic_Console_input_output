@@ -2,7 +2,7 @@
 
 A simple Python script where the user inputs medicine name and dosage time, and receives a basic printed reminder.
 
- # Technologies & Skills Used:
+ ## Technologies & Skills Used:
 
 Python
 
